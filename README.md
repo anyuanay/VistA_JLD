@@ -2,7 +2,7 @@
 
 ### This project demonstrates the interoperable JSON-LD VistA data linked to the health/medical extensions in schema.org. 
 
-# Resources 
+## Resources 
 
 1. VistA: The VA Health Information Systems Technology and Architecture (VistA) is the U.S. Department of Veterans Affairs integrated clinical, business, and administrative information system: http://vistadataproject.info/
 2. JSON-LD: JSON-LD is a lightweight Linked Data format for data exchange and integration on the Web: https://json-ld.org/
