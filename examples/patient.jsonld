@@ -1,1 +1,15 @@
-
+{
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "name": "name",
+    "sex": "gender",
+    "date_of_birth": "birthDate",
+    "occupation": "hasOccupation",
+    "street_address_line_1": "address"
+  },
+  "name": "CARTER, DAVID",
+  "sex": "MALE",
+  "date_of_birth": "1981-03-02T00:00:00Z",
+  "occupation": "STUDENT",
+  "street_address_line_1": "251 W 3RD ST"
+}
